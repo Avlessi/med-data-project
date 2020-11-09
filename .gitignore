@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+docs/_build/
+pyspark.egg-info
+build/
+dist/
+.pytest_cache/
+venv/
